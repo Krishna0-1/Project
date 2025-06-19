@@ -1,4 +1,4 @@
-Hi, I’m Krusgb — an aspiring Data Analyst / Business Analyst passionate about turning raw data into actionable insights.
+Hi, I’m Krishna Rathore — an aspiring Data Analyst / Business Analyst passionate about turning raw data into actionable insights.
 
 🔍 I specialize in:
 	•	Excel (Dashboards, Pivot Tables, VLOOKUP/XLOOKUP, Data Cleaning)
