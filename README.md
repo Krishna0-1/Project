@@ -1,3 +1,4 @@
+
 Hi, I’m Krishna Rathore — an aspiring Data Analyst / Business Analyst passionate about turning raw data into actionable insights.
 
 🔍 I specialize in:
