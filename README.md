@@ -1,21 +1,47 @@
-<<<<<<< HEAD
-Hi, I’m Krishna Rathore — an aspiring Data Analyst / Business Analyst passionate about turning raw data into actionable insights.
+# 👋 Hi, I’m Krishna Rathore — Aspiring Data & Business Analyst
 
-🔍 I specialize in:
-	Excel (Dashboards, Pivot Tables, VLOOKUP/XLOOKUP, Data Cleaning)
-	SQL (Joins, CTEs, Window Functions, Subqueries, Optimization)
-	Power BI (Interactive Reports, DAX, Data Modeling, Power Query)
-	Python (Pandas, NumPy, Matplotlib, Basic Automation)
+I'm passionate about turning raw data into actionable insights.
 
-📊 I’ve built end-to-end projects focused on:
-	Sales performance analysis
-	Customer behavior dashboards
-	Real-world data cleaning & transformation challenges
+---
 
-🌱 Currently learning: Advanced DAX & real-world case studies for business impact.
+### 🔧 My Key Skills
 
-📫 Let’s connect on LinkedIn
-💻 Explore my projects below ↓
-=======
-# E-commerce-business-analysis-Project
->>>>>>> ecommerce-branch
+- **Excel**: Dashboards, Pivot Tables, VLOOKUP/XLOOKUP, Data Cleaning  
+- **SQL**: Joins, CTEs, Window Functions, Subqueries, Optimization  
+- **Power BI**: Interactive Reports, DAX, Power Query, Data Modeling  
+- **Python**: Pandas, NumPy, Matplotlib, Automation (basic)
+
+---
+
+### 📁 Projects Included in This Repository
+
+This combined repository includes the following data analysis projects:
+
+---
+
+#### 📊 E-commerce Business Analysis Project
+
+- Tools Used: Excel, Power BI
+- Focus: Sales trends, customer segmentation, product KPIs  
+[Original Repo Link](https://github.com/Krishna0-1/E-commerce-business-analysis-Project)
+
+---
+
+#### 🏏 MySQL IPL Data Analysis
+
+- Tools Used: SQL (MySQL)
+- Focus: Match-level performance, team win stats, player analytics  
+[Original Repo Link](https://github.com/Krishna0-1/My-SQL-IPL-Data-analysis)
+
+---
+
+#### 🍽️ Zomato Restaurant Excel Analysis
+
+- Tools Used: Excel
+- Focus: Restaurant ratings, order patterns, pivot charts & slicers  
+[Original Repo Link](https://github.com/Krishna0-1/MS-Excel-project-on-Zomato-Restaurant-)
+
+---
+
+📫 Let’s connect on [LinkedIn](#)  
+💻 Explore the folders above for detailed work ↓
